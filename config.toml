@@ -1,4 +1,4 @@
-baseurl = "https://npo-shamisen.github.io/"
+baseurl = "https://www.npo-shamisen.jp/"
 title = "NPO法人 三味線音楽普及の会"
 theme = "hugo-universal-theme"
 themesDir = "themes"
